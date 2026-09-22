@@ -1,0 +1,4 @@
+interface:
+  display_name: "中间件存储治理"
+  short_description: "诊断 Docker 中间件磁盘增长并安全治理日志与保留策略"
+  default_prompt: "Use $x-ai-middleware-storage to audit Docker middleware storage growth and propose a safe cleanup plan."

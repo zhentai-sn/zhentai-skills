@@ -1,0 +1,4 @@
+interface:
+  display_name: "非生产 MySQL 安全连接"
+  short_description: "公网只读 MCP、SSH 私网隧道与仓库外密钥连接"
+  default_prompt: "Use $x-ai-backend-mysql to connect to a non-production MySQL database safely and query it without UI automation."

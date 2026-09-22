@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目文档体系构建"
+  short_description: "规划、编写、审查并持续治理项目完整文档体系与跨文档关系"
+  default_prompt: "使用 $x-ai-docs-builder 为当前项目规划、编写和审查文档体系。"

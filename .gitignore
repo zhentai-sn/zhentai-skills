@@ -1,0 +1,14 @@
+# skill-creator eval / 临时产物
+*-workspace/
+trigger-eval.json
+run_loop.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# os
+.DS_Store
+
+# lark 发布临时产物

@@ -1,0 +1,4 @@
+interface:
+  display_name: "业务管理端 前端部署"
+  short_description: "通过 GitLab 安全触发 业务管理端非生产环境部署"
+  default_prompt: "使用 $x-ai-frontend-deploy 部署指定分支到 test 环境的指定租户，并在创建流水线前二次确认。"

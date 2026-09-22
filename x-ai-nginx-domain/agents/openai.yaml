@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nginx 域名接入"
+  short_description: "给服务器服务配置 Nginx、DNSPod 与 HTTPS 验收"
+  default_prompt: "使用 $x-ai-nginx-domain 为服务器上的服务配置域名、DNSPod 解析并完成 HTTPS 验收。"

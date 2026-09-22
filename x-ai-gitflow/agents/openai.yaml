@@ -1,0 +1,4 @@
+interface:
+  display_name: "现代 Git Flow"
+  short_description: "规范现代 Git 分支、工作树、代码合入、正式发布与线上热修流程"
+  default_prompt: "使用 $x-ai-gitflow 为当前仓库选择并执行安全的分支工作流。"
